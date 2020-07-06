@@ -7,7 +7,7 @@ using Android.App;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("TappxSdkBinding")]
-[assembly: AssemblyDescription("Simple Bindings Library of Tappx SDK 3.1.9 for Xamarin.Android")]
+[assembly: AssemblyDescription("Xamarin Bindings Library for the Tappx Android SDK. Assembly version matches SDK version.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Natan Tapia (Bindings Library), Tappx (SDK)")]
 [assembly: AssemblyProduct("TappxSdkBinding")]

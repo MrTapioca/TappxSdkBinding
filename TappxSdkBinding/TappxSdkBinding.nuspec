@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl></projectUrl>
+    <projectUrl>https://github.com/MrTapioca/TappxSdkBinding</projectUrl>
     <description>$description$</description>
     <tags>Tappx Xamarin Android</tags>
   </metadata>
