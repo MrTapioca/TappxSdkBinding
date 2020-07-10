@@ -6,5 +6,5 @@ This Bindings Library is a simple C# wrapper for the .AAR (Android Archive) file
 
 ## Using the library
 
-1. Add the DLL reference to your Xamarin.Android project.
+1. Add the assembly reference to your Xamarin.Android project. You can install the nuget package from: https://www.nuget.org/packages/Xamarin.Android.TappxSdkBinding
 2. Follow the official Tappx guide: https://go.tappx.com/en/manual/?os=and#1_integration
