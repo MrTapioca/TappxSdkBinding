@@ -2,14 +2,13 @@
 <package >
   <metadata>
     <id>Xamarin.Android.TappxSdkBinding</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <version>3.1.9</version>
+    <title>TappxSdkBinding</title>
+    <authors>Natan Tapia (Bindings Library), Tappx (SDK)</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <projectUrl>https://github.com/MrTapioca/TappxSdkBinding</projectUrl>
-    <description>$description$</description>
+    <description>Xamarin Bindings Library for the Tappx Android SDK. Assembly version matches SDK version.</description>
     <tags>Tappx Xamarin Android</tags>
   </metadata>
 </package>
